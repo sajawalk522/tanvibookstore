@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Proza+Libre");
+@import url('https://fonts.googleapis.com/css?family=ABeeZee');
+
+body {
+    background: #fff;
+    color: black;
+    margin:20px;
+    font-family: 'ABeeZee';
+}
+
+button, input[type="submit"] {
+    background: dodgerblue;
+    color: white;
+    padding: .5em 1em;
+    cursor: pointer;
+}
