@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "yarn run build"
   publish="dist"
-  base = "client"
+  base = "src"
   # The base directory should be the path to the nested Vue project
